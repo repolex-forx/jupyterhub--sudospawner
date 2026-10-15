@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/jupyterhub/sudospawner/commit/304be890e24a0d64c394ea26690a82bedb367681",
       "git:hexsha": "304be890e24a0d64c394ea26690a82bedb367681",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-15T11:19:46.353806+00:00"
     },
     {
       "@id": "https://repolex.ai/r/jupyterhub/sudospawner/commit/e58c3101a83fccd1c104b13d51e7a3e20deb5f4b",
