@@ -1,0 +1,43 @@
+{
+  "manifest_version": "1.0",
+  "org": "jupyterhub",
+  "repo": "sudospawner",
+  "versions": [
+    {
+      "commit": "304be890e24a0d64c394ea26690a82bedb367681",
+      "parsed_at": "2026-10-15T11:17:35.507532+00:00",
+      "filetree": "filetree/304be890e24a0d64c394ea26690a82bedb367681.nq.gz",
+      "blobs": [
+        "blob/d778f9f931e1da8aaa2f6d2d9198fd85019b0814.nq.gz",
+        "blob/9da152bbfd8a4bc2db9e6ce31da087aba5c103bd.nq.gz",
+        "blob/29cfc7bef93f08bdb21337ebc9f61773759bef70.nq.gz",
+        "blob/54f34614ae7c04a58091d341358a92c68e8da14b.nq.gz",
+        "blob/15e5db461c24213595e12fce267b22659160341e.nq.gz",
+        "blob/d5855938088022e3440c09d8a79a4206e12de2c4.nq.gz",
+        "blob/3dbff1c4f891e7f688d3a267590727f08b2bdd67.nq.gz",
+        "blob/0dc89813dc10ed07777226c26d348a19ce3afb93.nq.gz",
+        "blob/698ad83bf585ee8b8df0e7eeb52b70bc53555d73.nq.gz",
+        "blob/815a9af14e2dd40f998a82afe49089c84b973810.nq.gz",
+        "blob/4aba2322b1b7f3f805c961b3a6550fc33b6dfe59.nq.gz",
+        "blob/ab119b2586272c29793685c7958b718b7a43d335.nq.gz",
+        "blob/69521b1221670a5ae10eac77ff018f386c78f863.nq.gz",
+        "blob/e86b052721615a4955cea717e4c8278b811ce543.nq.gz",
+        "blob/b9e78fd55447085415609e431e91ef7664166a75.nq.gz",
+        "blob/49d7ed16f5986ff0a97f5b5cfe45510187e42788.nq.gz",
+        "blob/c49c19c96b661c846e73e158eea379eba0b14203.nq.gz",
+        "blob/b2d52abe7b0ca0c0933c77357d1df4cecde71320.nq.gz",
+        "blob/c903acd554739db9ac5c2b54f790e37a38cdf421.nq.gz",
+        "blob/8d34bf0659e125f777c98cf96b58f11b755c5bef.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/4612e1d99e1506ef2bac3e649ac440fe294e84ce.nq.gz",
+        "blob/08ee63cf94d541774db1d762e5a58a60a50baa21.nq.gz",
+        "blob/4a90ef35f66750bef24c2de3198ed2fa276c4b5c.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
